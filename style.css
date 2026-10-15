@@ -1,0 +1,42 @@
+*{
+    color: white;
+}
+
+body{
+    background-color: #0B1F3A;
+}
+
+.texto-especial {
+    color: #C9A227;
+}
+
+.texto-especial2 {
+    font-weight: 200;
+}
+.secao-depoimentos {
+    background-color: #061428;
+}
+
+.cartao-depoimento {
+    background-color: #172a46; 
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+.texto-dourado {
+    color: #cda434 !important;
+    letter-spacing: 1px;
+}
+
+.rodape {
+    background-color: #031833;
+    border-top: 1px solid #172a46;
+}
+
+.rodape a {
+    transition: color 0.3s ease;
+}
+
+.rodape a:hover {
+    color: #cda434 !important; /* Dourado */
+}
